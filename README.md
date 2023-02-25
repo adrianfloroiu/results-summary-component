@@ -22,7 +22,7 @@ Even though the project doesn't require states or other specific features of Rea
 
 ### Links
 
-- Solution URL:
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-using-react--D0BpXP6p7](https://www.frontendmentor.io/solutions/results-summary-component-using-react--D0BpXP6p7)
 - Live Site URL: [https://adrianfloroiu.github.io/results-summary-component/](https://adrianfloroiu.github.io/results-summary-component/)
 
 ## Built with
